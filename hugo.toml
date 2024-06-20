@@ -1,0 +1,4 @@
+baseURL = 'https://renambot.github.io/'
+languageCode = 'en-us'
+title = 'Luc Renambot dev site'
+theme = 'ananke'
